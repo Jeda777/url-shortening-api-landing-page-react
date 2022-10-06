@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
-- [Live site](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/url-shortening-api-landing-page-react-14KgRgA8A4)
+- [Live site](https://grand-halva-5cf631.netlify.app/)
 
 ## Built with
 
