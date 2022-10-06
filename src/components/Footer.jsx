@@ -1,4 +1,4 @@
-import { iconFacebook, iconInstagram, iconTwitter, iconpinterest, logo } from '../assets'
+import { iconFacebook, iconInstagram, iconTwitter, iconPinterest, logo } from '../assets'
 
 const Footer = () => {
   return (
@@ -53,7 +53,7 @@ const Footer = () => {
               <img src={iconTwitter} alt='Twitter' />
             </a>
             <a href='#'>
-              <img src={iconpinterest} alt='Pinterest' />
+              <img src={iconPinterest} alt='Pinterest' />
             </a>
             <a href='#'>
               <img src={iconInstagram} alt='Instagram' />
