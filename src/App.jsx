@@ -110,7 +110,7 @@ const App = () => {
                         <button
                           onClick={(e) => {
                             changeCopyButton(e)
-                            if (navigator.clipboard) navigator.clipboard.write(i.short)
+                            if (navigator.clipboard) navigator.clipboard.writeText(i.short)
                           }}
                           className='bg-primary py-3 rounded-lg text-white transition-all hover:opacity-70 lg:px-8'
                         >
